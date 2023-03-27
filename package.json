@@ -1,0 +1,14 @@
+{
+	"name": "fetch-api",
+	"version": "1.0.0",
+	"description": "\"Working with fetch api\"",
+	"main": "main.js",
+	"scripts": {
+		"db": "json-server --watch db.json --port 4005"
+	},
+	"author": "NelliMK65",
+	"license": "ISC",
+	"dependencies": {
+		"json-server": "^0.17.3"
+	}
+}
